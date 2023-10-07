@@ -13,7 +13,7 @@ pip install requests
 pip install async-pavlov
 ```
 
-u nneed to enter RCON info in the script variables to make it work 
+u need to enter RCON info in the script variables to make it work 
 ```
 server_rcon = ""
 #rcon password 
