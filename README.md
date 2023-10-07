@@ -4,7 +4,9 @@ party time
 
 simple script may crash server not really a good idea but funny 
 didnt put much effort into it 
-INSTALL
+
+<hr>
+<h1>INSTALL</h1>
 
 
 ```
@@ -13,7 +15,7 @@ pip install requests
 pip install async-pavlov
 ```
 
-u need to enter RCON info in the script variables to make it work 
+<h4>u need to enter RCON info in the script variables to make it work </h4>h4>
 ```
 server_rcon = ""
 #rcon password 
@@ -38,10 +40,10 @@ bot_token = ""
 
 
 
-run the partytime.py to start it 
+<h4>run the partytime.py to start it </h4>
 
 ```
 python3 partytime.py
  ```
 
-and saying !!itspartytime with the role starts the party
+<h4>and saying !!itspartytime with the role starts the party</h4>
