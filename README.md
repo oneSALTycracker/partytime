@@ -16,7 +16,7 @@ pip install async-pavlov
 ```
 
 <h4>u need to enter RCON info in the script variables to make it work </h4>h4><p>
-```
+
 server_rcon = ""
 #rcon password 
 server_ip = "127.0.0.1"
@@ -31,7 +31,7 @@ item = "rl_rpg"
 #item to give everyone
 bot_token = ""
 #Discord bot token 
-```
+
 </p>
 
 
