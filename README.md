@@ -23,9 +23,14 @@ server_port = ""
 #rcon port
 
 role_id_to_check = 
-discord ROLE ID without " for who can run this  
-```
+discord ROLE ID without " for who can run this
+
+num_iterations = 12
+
+item = "rl_rpg"
+
 bot_token = ""
+```
 #Discord bot token 
 
 
