@@ -26,12 +26,15 @@ role_id_to_check =
 discord ROLE ID without " for who can run this
 
 num_iterations = 12
+# hhow many times to give
 
 item = "rl_rpg"
+#item to give everyone
 
 bot_token = ""
-```
 #Discord bot token 
+```
+
 
 
 
