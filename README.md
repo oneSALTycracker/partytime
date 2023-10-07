@@ -5,8 +5,8 @@ party time
 simple script may crash server not really a good idea but funny 
 didnt put much effort into it 
 
-<hr>
-<h1>INSTALL</h1>
+
+INSTALL
 
 
 ```
@@ -15,8 +15,8 @@ pip install requests
 pip install async-pavlov
 ```
 
-<h4>u need to enter RCON info in the script variables to make it work </h4>h4><p>
-
+u need to enter RCON info in the script variables to make it work 
+```
 server_rcon = ""
 #rcon password 
 server_ip = "127.0.0.1"
@@ -31,15 +31,15 @@ item = "rl_rpg"
 #item to give everyone
 bot_token = ""
 #Discord bot token 
-
-</p>
-
+```
 
 
-<h4>run the partytime.py to start it </h4>
+
+
+run the partytime.py to start it 
 
 ```
 python3 partytime.py
  ```
 
-<h4>and saying !!itspartytime with the role starts the party</h4>
+and saying !!itspartytime with the role starts the party
